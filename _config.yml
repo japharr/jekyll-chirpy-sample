@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy-birdly
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://chirpy-img.netlify.app/commons/avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
